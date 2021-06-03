@@ -1,7 +1,10 @@
-
+import React from 'react';
+import AddUser from './components/Users/AddUser'
 const App = () => {
   return (
-    <h1>LOL</h1>
+    <div>
+      <AddUser />
+    </div>
   );
 }
 
