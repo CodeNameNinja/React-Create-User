@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Create-User/static/css/main.18dffeb8.chunk.css",
-    "main.js": "/React-Create-User/static/js/main.19007666.chunk.js",
-    "main.js.map": "/React-Create-User/static/js/main.19007666.chunk.js.map",
+    "main.css": "/React-Create-User/static/css/main.7491a800.chunk.css",
+    "main.js": "/React-Create-User/static/js/main.179a2b6b.chunk.js",
+    "main.js.map": "/React-Create-User/static/js/main.179a2b6b.chunk.js.map",
     "runtime-main.js": "/React-Create-User/static/js/runtime-main.6beeb8d7.js",
     "runtime-main.js.map": "/React-Create-User/static/js/runtime-main.6beeb8d7.js.map",
-    "static/js/2.9cbb9e00.chunk.js": "/React-Create-User/static/js/2.9cbb9e00.chunk.js",
-    "static/js/2.9cbb9e00.chunk.js.map": "/React-Create-User/static/js/2.9cbb9e00.chunk.js.map",
+    "static/js/2.dcb9bab9.chunk.js": "/React-Create-User/static/js/2.dcb9bab9.chunk.js",
+    "static/js/2.dcb9bab9.chunk.js.map": "/React-Create-User/static/js/2.dcb9bab9.chunk.js.map",
     "index.html": "/React-Create-User/index.html",
-    "static/css/main.18dffeb8.chunk.css.map": "/React-Create-User/static/css/main.18dffeb8.chunk.css.map",
-    "static/js/2.9cbb9e00.chunk.js.LICENSE.txt": "/React-Create-User/static/js/2.9cbb9e00.chunk.js.LICENSE.txt"
+    "static/css/main.7491a800.chunk.css.map": "/React-Create-User/static/css/main.7491a800.chunk.css.map",
+    "static/js/2.dcb9bab9.chunk.js.LICENSE.txt": "/React-Create-User/static/js/2.dcb9bab9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6beeb8d7.js",
-    "static/js/2.9cbb9e00.chunk.js",
-    "static/css/main.18dffeb8.chunk.css",
-    "static/js/main.19007666.chunk.js"
+    "static/js/2.dcb9bab9.chunk.js",
+    "static/css/main.7491a800.chunk.css",
+    "static/js/main.179a2b6b.chunk.js"
   ]
 }
