@@ -36,7 +36,7 @@ const AddUser = (props) => {
     setEnteredAge(event.target.value);
   };
   const handleError = () => {
-    setError();
+    setError(null);
   };
   return (
     <div>
